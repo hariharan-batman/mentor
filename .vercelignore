@@ -1,6 +1,5 @@
 node_modules
 .git
-server
 *.md
 *.bat
 *.ps1
