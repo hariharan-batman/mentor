@@ -1,0 +1,24 @@
+{
+  "name": "founderdock-server",
+  "version": "1.0.0",
+  "description": "Backend for FounderDock AI Startup Mentorship Platform",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "startup",
+    "mentorship",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^4.18.2"
+  }
+}

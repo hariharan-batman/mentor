@@ -1,0 +1,80 @@
+{
+  "healthScores": {
+    "compliance": 100,
+    "fundingReadiness": 100,
+    "riskControl": 100,
+    "operations": 100,
+    "cyberSecurity": 100,
+    "overall": 100
+  },
+  "gaps": {
+    "compliance": {
+      "currentScore": 100,
+      "nextMilestone": 100,
+      "tasksToImprove": [],
+      "potentialGain": 0
+    },
+    "fundingReadiness": {
+      "currentScore": 100,
+      "nextMilestone": 100,
+      "tasksToImprove": [],
+      "potentialGain": 0
+    },
+    "riskControl": {
+      "currentScore": 100,
+      "nextMilestone": 100,
+      "tasksToImprove": [],
+      "potentialGain": 0
+    },
+    "operations": {
+      "currentScore": 100,
+      "nextMilestone": 100,
+      "tasksToImprove": [],
+      "potentialGain": 0
+    },
+    "cyberSecurity": {
+      "currentScore": 100,
+      "nextMilestone": 100,
+      "tasksToImprove": [],
+      "potentialGain": 0
+    }
+  },
+  "fundingMessage": {
+    "message": "You are ready for institutional funding!",
+    "stage": "Series A/B Ready",
+    "color": "green"
+  },
+  "gamification": {
+    "completionStreak": 1,
+    "tasksCompleted": 22,
+    "badges": [
+      {
+        "name": "Getting Started",
+        "icon": "🌱"
+      },
+      {
+        "name": "Task Master",
+        "icon": "⭐"
+      },
+      {
+        "name": "Execution Expert",
+        "icon": "🚀"
+      },
+      {
+        "name": "Compliance Champion",
+        "icon": "✅"
+      },
+      {
+        "name": "Funding Expert",
+        "icon": "💰"
+      },
+      {
+        "name": "Security Pro",
+        "icon": "🔐"
+      }
+    ],
+    "level": 4,
+    "xp": 1675
+  },
+  "lastCalculated": "2026-02-24T11:23:40.399Z"
+}

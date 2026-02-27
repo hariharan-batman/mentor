@@ -1,0 +1,49 @@
+{
+  "mentors": [
+    {
+      "id": "m1",
+      "name": "Sarah Chen",
+      "specialization": "Funding & Investment",
+      "experienceYears": 12,
+      "rating": 4.9,
+      "bio": "Former VC partner with expertise in Series A-C funding. Helped 50+ startups raise over $500M.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah"
+    },
+    {
+      "id": "m2",
+      "name": "Rajesh Kumar",
+      "specialization": "Legal & Compliance",
+      "experienceYears": 15,
+      "rating": 4.8,
+      "bio": "Corporate lawyer specializing in startup compliance, licensing, and regulatory frameworks.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rajesh"
+    },
+    {
+      "id": "m3",
+      "name": "Emily Rodriguez",
+      "specialization": "Strategic Planning",
+      "experienceYears": 10,
+      "rating": 4.9,
+      "bio": "Strategic consultant who scaled 3 startups from seed to unicorn status. Expert in growth strategy.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily"
+    },
+    {
+      "id": "m4",
+      "name": "David Thompson",
+      "specialization": "Cyber Security",
+      "experienceYears": 8,
+      "rating": 4.7,
+      "bio": "Security architect with focus on startup security frameworks and data protection compliance.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=David"
+    },
+    {
+      "id": "m5",
+      "name": "Priya Sharma",
+      "specialization": "Export & International Trade",
+      "experienceYears": 14,
+      "rating": 4.8,
+      "bio": "International trade expert helping startups expand globally with export compliance and market entry.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya"
+    }
+  ]
+}

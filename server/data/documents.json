@@ -1,0 +1,22 @@
+{
+  "documents": [
+    {
+      "id": "doc1771594362408",
+      "type": "NDA",
+      "content": "NON-DISCLOSURE AGREEMENT\n\nThis Non-Disclosure Agreement (\"Agreement\") is entered into as of 20/2/2026.\n\nBETWEEN: car (\"Disclosing Party\")\nAND: [Recipient Name] (\"Receiving Party\")\n\n1. CONFIDENTIAL INFORMATION\nThe Receiving Party agrees to maintain confidentiality of all proprietary information shared by the Disclosing Party.\n\n2. OBLIGATIONS\nThe Receiving Party shall:\n- Not disclose confidential information to third parties\n- Use information solely for the intended purpose\n- Protect information with reasonable security measures\n\n3. TERM\nThis agreement remains in effect for 2 years from the date of signing.\n\n4. REMEDIES\nBreach of this agreement may result in legal action and damages.\n\nSigned: _________________\nDate: 20/2/2026",
+      "createdAt": "2026-02-20T13:32:42.408Z"
+    },
+    {
+      "id": "doc1771947418949",
+      "type": "NDA",
+      "content": "NON-DISCLOSURE AGREEMENT\n\nThis Non-Disclosure Agreement (\"Agreement\") is entered into as of 24/2/2026.\n\nBETWEEN: marche health care (\"Disclosing Party\")\nAND: [Recipient Name] (\"Receiving Party\")\n\n1. CONFIDENTIAL INFORMATION\nThe Receiving Party agrees to maintain confidentiality of all proprietary information shared by the Disclosing Party.\n\n2. OBLIGATIONS\nThe Receiving Party shall:\n- Not disclose confidential information to third parties\n- Use information solely for the intended purpose\n- Protect information with reasonable security measures\n\n3. TERM\nThis agreement remains in effect for 2 years from the date of signing.\n\n4. REMEDIES\nBreach of this agreement may result in legal action and damages.\n\nSigned: _________________\nDate: 24/2/2026",
+      "createdAt": "2026-02-24T15:36:58.949Z"
+    },
+    {
+      "id": "doc1771947497034",
+      "type": "Founder Agreement",
+      "content": "FOUNDER AGREEMENT\n\nThis Founder Agreement is made on 24/2/2026.\n\nCOMPANY: marche health care\n\n1. FOUNDERS\nList all founding members and their roles.\n\n2. EQUITY DISTRIBUTION\nDefine ownership percentages and vesting schedules.\n\n3. ROLES AND RESPONSIBILITIES\nClearly outline each founder's duties and decision-making authority.\n\n4. INTELLECTUAL PROPERTY\nAll IP created belongs to the company.\n\n5. VESTING\nStandard 4-year vesting with 1-year cliff.\n\n6. EXIT PROVISIONS\nDefine terms for founder departure and buyback clauses.\n\n7. DISPUTE RESOLUTION\nMediation and arbitration procedures.\n\nSigned by all founders:\nDate: 24/2/2026",
+      "createdAt": "2026-02-24T15:38:17.034Z"
+    }
+  ]
+}

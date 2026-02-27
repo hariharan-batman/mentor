@@ -1,0 +1,65 @@
+{
+  "complianceChecklist": [
+    "Company registration and incorporation",
+    "GST registration (if revenue > threshold)",
+    "PAN and TAN registration",
+    "Professional tax registration",
+    "ESI and PF registration (if employees > 20)",
+    "Trade license from local authority",
+    "Industry-specific regulatory compliance",
+    "Data protection and privacy compliance",
+    "Intellectual property protection",
+    "Employment contracts and labor compliance"
+  ],
+  "requiredLicenses": [
+    "Business License",
+    "GST Registration",
+    "Medical Establishment License",
+    "Drug License"
+  ],
+  "fundingOpportunities": [
+    "Angel investors and angel networks",
+    "Seed funding from venture capital firms",
+    "Government startup schemes (Startup India)",
+    "Industry-specific grants and subsidies",
+    "Bank loans under MUDRA scheme",
+    "Crowdfunding platforms",
+    "Incubator and accelerator programs",
+    "Strategic partnerships and corporate ventures"
+  ],
+  "riskAnalysis": {
+    "legalRisk": "Medium - Ensure all licenses are current and compliance documentation is maintained. Review contracts regularly.",
+    "financialRisk": "High - Limited revenue stream. Focus on achieving product-market fit and securing initial funding.",
+    "marketRisk": "Medium - Competitive landscape requires continuous innovation. Conduct regular market analysis and customer feedback cycles.",
+    "cyberRisk": "Medium-High - Growing team increases attack surface. Invest in security training, tools, and data protection policies."
+  },
+  "readinessScore": 100,
+  "fundingScore": 100,
+  "actionPlan90Days": [
+    {
+      "week": "1-2",
+      "action": "Complete company registration and legal structure setup"
+    },
+    {
+      "week": "3-4",
+      "action": "Obtain necessary business licenses and permits"
+    },
+    {
+      "week": "5-6",
+      "action": "Set up financial systems and accounting processes"
+    },
+    {
+      "week": "7-8",
+      "action": "Develop and refine pitch deck and investor materials"
+    },
+    {
+      "week": "9-10",
+      "action": "Implement basic cybersecurity measures and data protection"
+    },
+    {
+      "week": "11-12",
+      "action": "Launch initial marketing and customer acquisition campaigns"
+    }
+  ],
+  "lastRun": "2026-02-27T06:50:35.597Z"
+}

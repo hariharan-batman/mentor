@@ -1,0 +1,370 @@
+[
+  {
+    "taskId": 9,
+    "taskTitle": "Financial Projections Model",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:14.481Z",
+    "scoreBefore": 0,
+    "scoreAfter": 0
+  },
+  {
+    "taskId": 9,
+    "taskTitle": "Financial Projections Model",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:15.421Z",
+    "scoreBefore": 6,
+    "scoreAfter": 6
+  },
+  {
+    "taskId": 6,
+    "taskTitle": "Founder Agreement",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:16.342Z",
+    "scoreBefore": 6,
+    "scoreAfter": 6
+  },
+  {
+    "taskId": 6,
+    "taskTitle": "Founder Agreement",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:16.865Z",
+    "scoreBefore": 10,
+    "scoreAfter": 10
+  },
+  {
+    "taskId": 10,
+    "taskTitle": "Investor Pitch Deck",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:17.261Z",
+    "scoreBefore": 10,
+    "scoreAfter": 10
+  },
+  {
+    "taskId": 10,
+    "taskTitle": "Investor Pitch Deck",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:17.482Z",
+    "scoreBefore": 15,
+    "scoreAfter": 15
+  },
+  {
+    "taskId": 1,
+    "taskTitle": "GST Registration",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:17.748Z",
+    "scoreBefore": 15,
+    "scoreAfter": 15
+  },
+  {
+    "taskId": 1,
+    "taskTitle": "GST Registration",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:17.947Z",
+    "scoreBefore": 21,
+    "scoreAfter": 21
+  },
+  {
+    "taskId": 18,
+    "taskTitle": "Proper Bookkeeping System",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:18.170Z",
+    "scoreBefore": 21,
+    "scoreAfter": 21
+  },
+  {
+    "taskId": 18,
+    "taskTitle": "Proper Bookkeeping System",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:18.344Z",
+    "scoreBefore": 30,
+    "scoreAfter": 30
+  },
+  {
+    "taskId": 2,
+    "taskTitle": "PAN & TAN Registration",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:24.766Z",
+    "scoreBefore": 30,
+    "scoreAfter": 30
+  },
+  {
+    "taskId": 2,
+    "taskTitle": "PAN & TAN Registration",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:25.436Z",
+    "scoreBefore": 33,
+    "scoreAfter": 33
+  },
+  {
+    "taskId": 2,
+    "taskTitle": "PAN & TAN Registration",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:27.159Z",
+    "scoreBefore": 33,
+    "scoreAfter": 33
+  },
+  {
+    "taskId": 2,
+    "taskTitle": "PAN & TAN Registration",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:27.176Z",
+    "scoreBefore": 33,
+    "scoreAfter": 33
+  },
+  {
+    "taskId": 19,
+    "taskTitle": "Basic Cybersecurity Setup",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:33.502Z",
+    "scoreBefore": 33,
+    "scoreAfter": 33
+  },
+  {
+    "taskId": 19,
+    "taskTitle": "Basic Cybersecurity Setup",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:33.714Z",
+    "scoreBefore": 38,
+    "scoreAfter": 38
+  },
+  {
+    "taskId": 8,
+    "taskTitle": "Shareholders Agreement",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:33.926Z",
+    "scoreBefore": 38,
+    "scoreAfter": 38
+  },
+  {
+    "taskId": 8,
+    "taskTitle": "Shareholders Agreement",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:34.294Z",
+    "scoreBefore": 41,
+    "scoreAfter": 41
+  },
+  {
+    "taskId": 12,
+    "taskTitle": "Due Diligence Data Room",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:34.638Z",
+    "scoreBefore": 41,
+    "scoreAfter": 41
+  },
+  {
+    "taskId": 12,
+    "taskTitle": "Due Diligence Data Room",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:34.818Z",
+    "scoreBefore": 45,
+    "scoreAfter": 45
+  },
+  {
+    "taskId": 13,
+    "taskTitle": "Intellectual Property Protection",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:35.030Z",
+    "scoreBefore": 45,
+    "scoreAfter": 45
+  },
+  {
+    "taskId": 13,
+    "taskTitle": "Intellectual Property Protection",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:35.203Z",
+    "scoreBefore": 52,
+    "scoreAfter": 52
+  },
+  {
+    "taskId": 5,
+    "taskTitle": "Data Protection Policy",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:35.411Z",
+    "scoreBefore": 52,
+    "scoreAfter": 52
+  },
+  {
+    "taskId": 5,
+    "taskTitle": "Data Protection Policy",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:35.772Z",
+    "scoreBefore": 57,
+    "scoreAfter": 57
+  },
+  {
+    "taskId": 11,
+    "taskTitle": "Capitalization Table",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:35.968Z",
+    "scoreBefore": 57,
+    "scoreAfter": 57
+  },
+  {
+    "taskId": 11,
+    "taskTitle": "Capitalization Table",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:36.187Z",
+    "scoreBefore": 60,
+    "scoreAfter": 60
+  },
+  {
+    "taskId": 15,
+    "taskTitle": "Legal Compliance Audit",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:36.413Z",
+    "scoreBefore": 60,
+    "scoreAfter": 60
+  },
+  {
+    "taskId": 15,
+    "taskTitle": "Legal Compliance Audit",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:36.628Z",
+    "scoreBefore": 65,
+    "scoreAfter": 65
+  },
+  {
+    "taskId": 17,
+    "taskTitle": "Employment Contracts",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:36.844Z",
+    "scoreBefore": 65,
+    "scoreAfter": 65
+  },
+  {
+    "taskId": 17,
+    "taskTitle": "Employment Contracts",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:37.036Z",
+    "scoreBefore": 72,
+    "scoreAfter": 72
+  },
+  {
+    "taskId": 21,
+    "taskTitle": "Cybersecurity Audit",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:37.267Z",
+    "scoreBefore": 72,
+    "scoreAfter": 72
+  },
+  {
+    "taskId": 21,
+    "taskTitle": "Cybersecurity Audit",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:37.486Z",
+    "scoreBefore": 76,
+    "scoreAfter": 76
+  },
+  {
+    "taskId": 22,
+    "taskTitle": "Data Backup & Recovery Plan",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:37.700Z",
+    "scoreBefore": 76,
+    "scoreAfter": 76
+  },
+  {
+    "taskId": 22,
+    "taskTitle": "Data Backup & Recovery Plan",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:37.885Z",
+    "scoreBefore": 79,
+    "scoreAfter": 79
+  },
+  {
+    "taskId": 3,
+    "taskTitle": "Trade License",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:38.108Z",
+    "scoreBefore": 79,
+    "scoreAfter": 79
+  },
+  {
+    "taskId": 3,
+    "taskTitle": "Trade License",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:38.327Z",
+    "scoreBefore": 83,
+    "scoreAfter": 83
+  },
+  {
+    "taskId": 14,
+    "taskTitle": "Business Insurance",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:38.571Z",
+    "scoreBefore": 83,
+    "scoreAfter": 83
+  },
+  {
+    "taskId": 14,
+    "taskTitle": "Business Insurance",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:38.748Z",
+    "scoreBefore": 87,
+    "scoreAfter": 87
+  },
+  {
+    "taskId": 16,
+    "taskTitle": "Contract Templates & Review",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:38.980Z",
+    "scoreBefore": 87,
+    "scoreAfter": 87
+  },
+  {
+    "taskId": 16,
+    "taskTitle": "Contract Templates & Review",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:39.187Z",
+    "scoreBefore": 91,
+    "scoreAfter": 91
+  },
+  {
+    "taskId": 7,
+    "taskTitle": "Board Resolutions Documentation",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:39.402Z",
+    "scoreBefore": 91,
+    "scoreAfter": 91
+  },
+  {
+    "taskId": 7,
+    "taskTitle": "Board Resolutions Documentation",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:39.613Z",
+    "scoreBefore": 95,
+    "scoreAfter": 95
+  },
+  {
+    "taskId": 20,
+    "taskTitle": "Security Awareness Training",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:39.811Z",
+    "scoreBefore": 95,
+    "scoreAfter": 95
+  },
+  {
+    "taskId": 20,
+    "taskTitle": "Security Awareness Training",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:40.012Z",
+    "scoreBefore": 98,
+    "scoreAfter": 98
+  },
+  {
+    "taskId": 4,
+    "taskTitle": "Shops & Establishment Registration",
+    "status": "in-progress",
+    "timestamp": "2026-02-24T11:23:40.214Z",
+    "scoreBefore": 98,
+    "scoreAfter": 98
+  },
+  {
+    "taskId": 4,
+    "taskTitle": "Shops & Establishment Registration",
+    "status": "completed",
+    "timestamp": "2026-02-24T11:23:40.411Z",
+    "scoreBefore": 100,
+    "scoreAfter": 100
+  }
+]
